@@ -3,9 +3,6 @@ function solution(A, B) {
 //         return -1;
 //     }
     
-//     // const doubledA = A + A;
-//     // return doubledA.indexOf(B);
-    
 //     let count = 0;
 //     while (A !== B) {
 //         A = A[A.length-1] + A.slice(0, A.length-1);
