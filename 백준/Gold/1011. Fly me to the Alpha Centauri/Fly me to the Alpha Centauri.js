@@ -1,7 +1,7 @@
-let fs = require('fs');
-let input = fs.readFileSync('/dev/stdin').toString().split('\n');
+let input = require('fs').readFileSync('/dev/stdin').toString().split('\n');
 
 let cnt = Number(input[0]);
+
 let x;
 let y;
 let a;
