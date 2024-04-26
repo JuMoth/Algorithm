@@ -3,5 +3,4 @@ const input = require("fs")
   .toString()
   .trim();
 
-if(Number(input)%2 === 0) console.log("Duck");
-else console.log("Goose");
+console.log(Number(input)%2 === 0 ? "Duck" : "Goose");
