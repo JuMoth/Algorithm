@@ -1,10 +1,10 @@
 # [level 1] 옹알이 (2) - 133499 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133499) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=java) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.57 ms
+메모리: 77.3 MB, 시간: 3.55 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 23일 20:21:36
+2024년 05월 09일 21:28:19
 
 ### 문제 설명
 
