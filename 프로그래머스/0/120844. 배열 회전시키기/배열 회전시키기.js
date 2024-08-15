@@ -1,15 +1,8 @@
 function solution(numbers, direction) {
-    var answer = [];
-    let temp;
-    switch(direction) {
-        case "right":
-            temp = numbers.pop();
-            numbers.unshift(temp);
-            break;
-        case "left":
-            temp = numbers.shift();
-            numbers.push(temp);
-            break;
+    if (direction === "right") {
+        numbers.unshift(numbers.pop());
+    } else if(direction === "left") {
+        numbers.push(numbers.shift());
     }
     return numbers;
 }
