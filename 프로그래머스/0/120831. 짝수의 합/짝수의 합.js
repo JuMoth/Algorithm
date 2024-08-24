@@ -1,7 +1,9 @@
 function solution(n) {
     let sum = 0;
-    for(let i=2; i<=n; i+=2) {
-        sum += i;
+    let m = 0;
+    while(m <= n) {
+        sum += m;
+        m+=2;
     }
     return sum;
 }
