@@ -1,10 +1,10 @@
 # [level 0] 배열 두배 만들기 - 120809 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120809) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120809?language=javascript) 
 
 ### 성능 요약
 
-메모리: 79.4 MB, 시간: 0.03 ms
+메모리: 33.8 MB, 시간: 0.31 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 4일 11:58:45
+2024년 09월 13일 20:52:18
 
 ### 문제 설명
 
