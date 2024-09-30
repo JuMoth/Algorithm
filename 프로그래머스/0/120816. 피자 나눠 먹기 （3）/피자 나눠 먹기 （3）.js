@@ -1,3 +1,5 @@
 function solution(slice, n) {
-    return Math.floor((n+(slice-1))/slice);
+    let answer = 0;
+    answer = Math.floor((n+(slice-1))/slice);
+    return answer;
 }
