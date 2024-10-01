@@ -1,6 +1,6 @@
 # [level 0] 배열의 평균값 - 120817 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120817) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 04일 13:59:32
+2024년 10월 01일 14:24:17
 
 ### 문제 설명
 
