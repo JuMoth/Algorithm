@@ -9,9 +9,12 @@ function solution(n) {
 }
 
 function factorial(num) {
+    let answer = 0;
     if (num <= 1) {
-        return 1;
+        answer = 1;
     } else {
-        return num * factorial(num - 1);
+        answer = num * factorial(num - 1);
     }
+    
+    return answer;
 }
