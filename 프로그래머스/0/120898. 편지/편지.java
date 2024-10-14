@@ -1,5 +1,7 @@
 class Solution {
     public int solution(String message) {
-        return message.length()*2;
+        int answer = 0;
+        answer = message.length()*2;
+        return answer;
     }
 }
