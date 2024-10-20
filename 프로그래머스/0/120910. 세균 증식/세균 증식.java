@@ -3,7 +3,7 @@ class Solution {
         int answer = n;
 
         for(int i=0; i<t; i++){
-            answer = answer+answer; 
+            answer += answer; 
         }
         return answer;
     }
