@@ -1,3 +1,5 @@
 function solution(my_string) {
-    return my_string.toLowerCase().split('').sort().join('');
+    let answer = '';
+    answer = my_string.toLowerCase().split('').sort().join('');
+    return answer;
 }
