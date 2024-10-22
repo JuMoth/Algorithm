@@ -3,7 +3,7 @@ function solution(array) {
     for(let i of array) {
         for(let j of String(i).split("")) {
             if(j.includes("7")) {
-                answer ++
+                answer ++;
             }
         }
     }
