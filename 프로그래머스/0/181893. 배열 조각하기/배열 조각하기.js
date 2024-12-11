@@ -9,5 +9,5 @@ function solution(arr, query) {
         }
     }
     
-    return arr
+    return arr;
 }
