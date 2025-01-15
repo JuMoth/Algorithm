@@ -1,7 +1,7 @@
 function solution(numLog) {
     return numLog.reduce((acc, cur, curIdx, originArr) => {
-        if(!curIdx) return ""
-        const prev = originArr[curIdx-1]
+        if(!curIdx) return "";
+        const prev = originArr[curIdx-1];
         switch(prev-cur) {
             case -1:
                 return acc+'w';
