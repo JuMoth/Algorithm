@@ -7,6 +7,5 @@ function solution(a, b, c) {
     } else if(a===b && b===c && c===a) {
         answer += (a + b + c) * (a*a + b*b + c*c ) * (a*a*a + b*b*b + c*c*c );
     }
-    console.log(answer);
     return answer;
 }
