@@ -1,5 +1,5 @@
 function solution(numbers) {
-    var answer = [];
+    let answer = [];
     for(let nums of numbers) {
         answer.push(nums*2);
     }
