@@ -1,5 +1,5 @@
 function solution(numbers) {
-    var answer = 0;
+    let answer = 0;
     
     return answer = numbers.reduce((acc, cur) => {
         return acc + cur;
