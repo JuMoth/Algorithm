@@ -1,5 +1,5 @@
 function solution(price) {
-    var answer = price;
+    let answer = price;
     if (answer >= 500000) {
         answer *= 0.8;
     } else if (answer >= 300000) {
