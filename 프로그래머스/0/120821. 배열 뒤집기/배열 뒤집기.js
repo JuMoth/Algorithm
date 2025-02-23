@@ -1,5 +1,5 @@
 function solution(num_list) {
-    var answer = [];
+    let answer = [];
     for(let nums of num_list) {
         answer.unshift(nums);
     }
