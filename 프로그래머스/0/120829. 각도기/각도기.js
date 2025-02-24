@@ -1,5 +1,5 @@
 function solution(angle) {
-    var answer = 0;
+    let answer = 0;
     
     if(angle > 0 && angle < 90) {
         answer = 1;
