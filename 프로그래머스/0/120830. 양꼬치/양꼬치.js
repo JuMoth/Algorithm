@@ -1,5 +1,5 @@
 function solution(n, k) {
-    var answer = 0;
+    let answer = 0;
     
     answer += n*12000;
     answer += (k-Math.floor(n/10))*2000;
