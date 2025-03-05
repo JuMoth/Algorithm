@@ -7,7 +7,7 @@ let morse = {
 };
 
 function solution(letter) {
-    var answer = '';
+    let answer = '';
     answer = letter.split(" ").reduce((prev, curr) => prev + morse[curr], "");
     return answer;
 }
