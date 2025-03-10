@@ -1,5 +1,5 @@
 function solution(s) {
-    var answer = 0;
+    let answer = 0;
     let str = s.split(" ");
     for(let i=0; i<str.length; i++) {
         if(str[i] !== "Z") {
