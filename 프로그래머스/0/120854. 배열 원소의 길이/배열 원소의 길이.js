@@ -1,5 +1,5 @@
 function solution(strlist) {
-    var answer = [];
+    let answer = [];
     for(let i=0; i<strlist.length; i++) {
         answer.push(strlist[i].length);
     }
