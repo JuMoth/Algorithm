@@ -7,7 +7,7 @@ function isLowerCase(str) {
 }
 
 function solution(my_string) {
-    var answer = '';
+    let answer = '';
     for(let i=0; i<my_string.length; i++) {
         if(isUpperCase(my_string[i]) === true) {
             answer += my_string[i].toLowerCase();
