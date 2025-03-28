@@ -1,5 +1,5 @@
 function solution(n, t) {
-    var answer = n;
+    let answer = n;
     for(let i=0; i<t; i++) {
         answer *= 2;
     }
