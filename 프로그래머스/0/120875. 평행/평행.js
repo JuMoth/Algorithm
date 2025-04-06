@@ -1,5 +1,5 @@
 function solution(dots) {
-    var answer = 0;
+    let answer = 0;
     
     function calculation(a, b, c, d) {
         let abDiff, cdDiff;
