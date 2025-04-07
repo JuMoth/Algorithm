@@ -1,5 +1,5 @@
 function solution(bin1, bin2) {
-    var answer = '';
+    let answer = '';
     
     function toTen(bin) {
         return parseInt(bin, 2);
