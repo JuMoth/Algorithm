@@ -1,10 +1,10 @@
 # [level 0] 종이 자르기 - 120922 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120922?language=javascript) 
 
 ### 성능 요약
 
-메모리: 76.7 MB, 시간: 0.02 ms
+메모리: 33.5 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 20일 14:38:39
+2025년 04월 10일 18:53:59
 
 ### 문제 설명
 

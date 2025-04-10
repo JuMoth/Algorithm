@@ -1,3 +1,5 @@
 function solution(M, N) {
-    return M*N-1;
+    var answer = 0;
+    answer = M*N-1;
+    return answer;
 }
