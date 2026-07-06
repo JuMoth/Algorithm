@@ -6,6 +6,6 @@ function solution(name, yearning, photo) {
     }
 
     return photo.map(people =>
-        people.reduce((sum, person) => sum + (score[person] || 0), 0)
+        people.reduce((sum, person) => sum+(score[person] || 0), 0)
     );
 }
